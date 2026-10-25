@@ -1,0 +1,10 @@
+.cache/
+__pycache__/
+*.pyc
+.env
+log_tmp/
+code.zip
+
+__pycache__/
+.cache/
+.env
